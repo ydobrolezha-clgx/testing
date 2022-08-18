@@ -1,1 +1,3 @@
 changes made in the master branch
+I add new changes to file1.txt.
+I add smth new/
