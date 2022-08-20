@@ -1,0 +1,6 @@
+access.txt
+#tree3/
+tree3/*.pdf
+tree3/file10.txt
+*.pdf
+!file2.pdf
